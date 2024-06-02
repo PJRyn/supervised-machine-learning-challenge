@@ -1,2 +1,2 @@
-# supervised-machine-learning-challenge
-This is my submission to the module 19 challenge from Monash University's data science bootcamp. Contained within is the python notebook with my answers to the challenge and the lending_data.csv which contains the data used in the assignment.
+# supervised-machine-learning-credit-risk
+This is my submission to the module 19 challenge from Monash University's data science bootcamp. In this task I had used multiple unsupervised learning techniques to look at credit risk data. I then had to make an analysis of the effectiveness of each technique.
